@@ -18,8 +18,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The steps below will help you to install and configure VUTTR correctly.
 
-- First of all, clone/download this repository and the [api](https://gitlab.com/bossabox/challenge-fake-api/tree/master) we will use.
-
 - Execute the comand.:
 
 > cd frontend
