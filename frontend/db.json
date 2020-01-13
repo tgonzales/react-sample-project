@@ -49,51 +49,6 @@
         "productive"
       ],
       "id": 4
-    },
-    {
-      "title": "Developer",
-      "link": "http://vue.io",
-      "description": "asdf asdf asdf asdf asdf",
-      "tags": [
-        "framework"
-      ],
-      "id": 5
-    },
-    {
-      "title": "Developer",
-      "link": "http://vue.io",
-      "description": "asdf asdf asdf asdf asdf",
-      "tags": [
-        "framework"
-      ],
-      "id": 6
-    },
-    {
-      "title": "Developer",
-      "link": "http://vue.io",
-      "description": "asdf asdf asdf asdf",
-      "tags": [
-        "framework"
-      ],
-      "id": 7
-    },
-    {
-      "title": "Developer",
-      "link": "http://vue.io",
-      "description": "asdf asdf asdf asdf",
-      "tags": [
-        "framework"
-      ],
-      "id": 8
-    },
-    {
-      "title": "Developer",
-      "link": "http://vue.io",
-      "description": "asdf asdf asdf asdf",
-      "tags": [
-        "framework"
-      ],
-      "id": 9
     }
   ]
 }
